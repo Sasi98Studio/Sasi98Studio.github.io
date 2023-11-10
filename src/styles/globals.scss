@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+// nav{
+//     margin: 2rem auto;
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     a{
+//         text-decoration: none;
+//         color: black;
+//         font-weight: 900;
+//         font-family: 'Syne',sans-serif;
+//     }
+//     ul{
+//         display: flex;
+//         align-items: center;
+//         li{
+//             list-style: none;
+//             margin-inline: 1rem;
+//             a{
+//                 text-decoration: none;
+//                 color: black;
+//                 font-weight: 100;
+//             }
+//         }
+//     }
+// }
+
+footer{
+    position: fixed;
+    bottom: 3rem;
+    left: 3rem;
+    a{
+        text-decoration: none;
+        color: darkgrey;
+        font-family: 'Syne',sans-serif;
+        font-weight: 500;
+    }
+}
