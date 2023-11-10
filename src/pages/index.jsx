@@ -31,10 +31,10 @@ export default function Home() {
             <section id='hero'>
               <h1>We make Things</h1>
             </section>
-            <section id='about'>about section.</section>
-            <section id='works'>works section.</section>
-            <section id='services'>services section.</section>
-            <section id='contact'>contact section.</section>
+            <section id='about'></section>
+            <section id='works'></section>
+            <section id='services'></section>
+            <section id='contact'></section>
           </div>
         </div>
       </main>
